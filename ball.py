@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-MOVE_SPEED = 0.04
+MOVE_SPEED = 0.02
 
 class Ball(Turtle):
 
